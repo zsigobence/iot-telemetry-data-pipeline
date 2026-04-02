@@ -24,7 +24,7 @@ The project follows the **Medallion Architecture** managed by **Dagster** orches
 * `04_gold/`: Final Star Schema and OBT models.
 * `orchestration.py`: Dagster pipeline definition and scheduling.
 
-## 🚀 How to Run Locally
+## How to Run Locally
 1. Clone the repository:
    ```bash
    git clone [https://github.com/zsigobence/iot-telemetry-data-pipeline.git](https://github.com/zsigobence/iot-telemetry-data-pipeline.git)
